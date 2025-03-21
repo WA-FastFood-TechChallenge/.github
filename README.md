@@ -90,8 +90,6 @@ O processo de pagamento será por QR Code, gerado pela integração com a plataf
 A aplicação está estruturada no padrão de _Clean Architecture_.
 
 ## Autores
-- [@alvarovianello](https://github.com/alvarovianello)
-- [@WilliaMarques7](https://github.com/https://github.com/WilliaMarques7)
 | Nome | RM | GitHub |
 | --- | --- | --- |
 | Álvaro da Silva Olivera | RM354879 | [@alvarovianello](https://github.com/alvarovianello) |
